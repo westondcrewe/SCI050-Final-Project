@@ -7,6 +7,14 @@ Stretch goal of the project is to pipe resulting audio file to a song classifica
 
 Code is also provided to embed audio files within image files (steganographizing). 
 
+The main files to pay any attention to are:
+- project_main.ipynb
+- functions.py 
+- project_image.JPG
+- swfaith.wav
+- project_drums.wav
+Other files/folders within this notebook involve abandoned visualization tasks that I thought would be fun to make.
+
 [Final Presentation Slidedeck](https://docs.google.com/presentation/d/18WCBvUsEVfH5yXndQUsyjAWvIg1lmlcWWzefp9hbYUc/edit?usp=sharing)
 
 <h4>Claremont McKenna College; Prof. Zach Dodds</h4>
